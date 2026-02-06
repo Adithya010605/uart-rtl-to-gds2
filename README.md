@@ -527,7 +527,6 @@ The critical path runs through the baud rate generator's 24-bit accumulator, whi
 
 *Design area: 3,462 µm² with 44% core utilization*
 
-📊 **For detailed results, timing analysis, and waveforms, see [RESULTS.md](RESULTS.md)**
 
 ## 🚧 Future Enhancements
 
